@@ -11,3 +11,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once an automobile engineer
 
+
+
+<i class="devicon-java-plain-wordmark"></i>
