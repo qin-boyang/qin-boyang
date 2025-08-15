@@ -2,14 +2,14 @@
 
 
 
-- 🔭 I’m currently working on Spring-boot Microservices
-- 🌱 I’m currently learning Data Analysis with Python
+- 🔭 I’m currently working on Java 24 and Spring Boot 3 demos with latest features
+- 🌱 I’m currently learning Spring AI
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I’m looking for help with Big Data technology
-- 💬 Ask me about Java and Spring-boot
+- 💬 Ask me about Java 24 and Spring Boot 3
 - 📫 How to reach me: [Linked](https://www.linkedin.com/in/qin-boyang/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once an automobile engineer
+- ⚡ Fun fact: I was once an automobile mechanic
 - ✅ Technologies I worked on:
 
 <a href=#>
@@ -38,9 +38,6 @@
 </a>
 <a href=#>
   <img src='/icons/css3/css3-original.svg' height="40">
-</a>
-<a href=#>
-  <img src='/icons/ionic/ionic-original.svg' height="40">
 </a>
 <a href=#>
   <img src='/icons/npm/npm-original-wordmark.svg' height="40">
