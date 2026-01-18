@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on Java 24 and Spring Boot 3 demos with latest features
-- 🌱 I’m currently learning Spring AI
+- 🔭 I’m currently working on Java 25 and Spring Boot 4 demos with latest features
+- 🌱 I’m currently learning Spring AI and Kotlin Multiplatform
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I’m looking for help with Big Data technology
-- 💬 Ask me about Java 24 and Spring Boot 3
+- 💬 Ask me about Java 25 and Spring Boot 4
 - 📫 How to reach me: [Linked](https://www.linkedin.com/in/qin-boyang/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once an automobile mechanic
